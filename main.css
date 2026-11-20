@@ -1,0 +1,11 @@
+html {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
